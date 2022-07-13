@@ -1,0 +1,5 @@
+1. Use the supercell from  "../../1_GS_CALC/4_mk_supercell/"
+
+2. Check the order in POTCAR. Must be consistent with POSCAR
+
+3. Use "vaspT" in the current directory to check the temperature.

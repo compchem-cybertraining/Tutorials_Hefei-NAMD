@@ -1,0 +1,5 @@
+1. Use the CONTCAR from "../1_NVT_MD/"
+
+2. Use "vaspT" in the current directory to check the temperature and the total energy.
+
+3. The total energy should be conserved except of a small drift.
